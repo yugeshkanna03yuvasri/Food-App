@@ -21,10 +21,12 @@ This app allows users to browse food items, add them to the cart, and place an o
 ---
 
 ## 📸 Screenshots
+<p align="center">
 <img src="https://github.com/yugeshkanna03yuvasri/Food-App/blob/master/app/src/main/res/drawable/f1.jpg" alt="App Screenshot" width="200"/> 
 <img src="https://github.com/yugeshkanna03yuvasri/Food-App/blob/master/app/src/main/res/drawable/f2.jpg" alt="App Screenshot" width="200"/> 
 <img src="https://github.com/yugeshkanna03yuvasri/Food-App/blob/master/app/src/main/res/drawable/f3.jpg" alt="App Screenshot" width="200"/> 
 <img src="https://github.com/yugeshkanna03yuvasri/Food-App/blob/master/app/src/main/res/drawable/f4.jpg" alt="App Screenshot" width="200"/> 
+</p>
 
 
 ---
