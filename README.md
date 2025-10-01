@@ -1,4 +1,4 @@
-#Food Ordering App
+# Food Ordering App
 
 A simple **Food Ordering App** built with **Kotlin (Jetpack Compose)** for the frontend and **Firebase Realtime Database** as the backend.  
 This app allows users to browse food items, add them to the cart, and place an order. Once an order is placed, the details are automatically stored in the Firebase database.  
