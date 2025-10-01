@@ -43,9 +43,9 @@ This app allows users to browse food items, add them to the cart, and place an o
    ```bash
    git clone https://github.com/your-username/food-ordering-app.git
 
-2.Open in Android Studio
-3.Sync Gradle dependencies
-4.Configure Firebase Realtime Database in your project
+2.Open in Android Studio<br>
+3.Sync Gradle dependencies<br>
+4.Configure Firebase Realtime Database in your project<br>
 5.Run on emulator or physical device
 
 ## Authors
